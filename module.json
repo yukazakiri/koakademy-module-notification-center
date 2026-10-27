@@ -2,13 +2,13 @@
     "name": "NotificationCenter",
     "alias": "notification-center",
     "composer_package": "koakademy/notification-center",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "Template-based notification management and bulk messaging tools.",
     "author": "KoAkademy contributors",
     "license": "AGPL-3.0-or-later",
     "requires": {
-        "core": ">=1.20.0",
-        "php": ">=8.5",
+        "core": ">=1.29.0",
+        "php": ">=8.5.12 <8.6",
         "modules": {}
     },
     "compatibility": {
